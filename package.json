@@ -1,0 +1,14 @@
+{
+  "name": "blogging",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+      "start":"nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
